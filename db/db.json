@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "arun",
+      "pass": "s;dla",
+      "id": 1678177263110,
+      "role": "admin"
+    },
+    {
+      "name": "dexter",
+      "pass": "s;dla",
+      "id": 1678177263110,
+      "role": "worker"
+    }
+  ]
+}
